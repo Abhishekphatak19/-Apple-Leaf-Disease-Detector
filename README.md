@@ -1,1 +1,0 @@
-# -Apple-Leaf-Disease-Detector
